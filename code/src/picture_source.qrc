@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>picture/timg.jpg</file>
+        <file>picture/1.png</file>
+        <file>picture/2.jpg</file>
+        <file>picture/3.jpg</file>
+        <file>picture/4.jpg</file>
+        <file>picture/5.jpg</file>
+        <file>picture/6.png</file>
+        <file>picture/7.jpg</file>
+        <file>picture/8.png</file>
+        <file>picture/go-next.png</file>
+        <file>picture/go-previous.png</file>
+        <file>picture/index1.png</file>
+        <file>picture/index.png</file>
+        <file>picture/index2.png</file>
+        <file>picture/right.jpg</file>
+        <file>picture/left.jpg</file>
+        <file>picture/end.jpg</file>
+        <file>picture/first.jpg</file>
+        <file>picture/index3.png</file>
+        <file>picture/index4.png</file>
+        <file>picture/index5.png</file>
+        <file>picture/index6.png</file>
+        <file>picture/black.jpg</file>
+        <file>picture/white.jpg</file>
+        <file>picture/black1.png</file>
+        <file>picture/white1.png</file>
+        <file>picture/dian2.png</file>
+        <file>picture/preview1.jpg</file>
+        <file>picture/printer1.jpg</file>
+    </qresource>
+</RCC>
